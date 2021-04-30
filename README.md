@@ -1,6 +1,6 @@
 # meals_order_app
 
-A new Flutter project.
+An awesome app where you can find meals you can make them at home
 
 ## Getting Started
 
